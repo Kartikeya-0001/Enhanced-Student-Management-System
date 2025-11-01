@@ -47,7 +47,7 @@ Student Info:
 - Grade: B
 
 - View operation completed.
--Program execution completed.
+- Program execution completed.
 
 
 ## Packages Used
