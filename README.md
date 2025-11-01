@@ -63,6 +63,10 @@ Program execution completed.
 - Wrapper class and autoboxing usage
 - Clean, modular code with packages
 
+# Output Screenshot
+<img width="860" height="525" alt="Screenshot 2025-11-02 003122" src="https://github.com/user-attachments/assets/76b27173-f9a4-4f3a-bb84-19eed0b70fa7" />
+
+
 ## Author
 
 Name - Kartikeya Drall
