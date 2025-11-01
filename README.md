@@ -1,6 +1,7 @@
 # Enhanced-Student-Management-System
 
 ## Objective
+
 Enhance the Student Management System using:
 - **Exception Handling** (`try-catch-finally`, custom exceptions)
 - **Multithreading** (`Thread`, `Runnable`)
@@ -17,6 +18,7 @@ Enhance the Student Management System using:
 | `Main` | Driver class for execution |
 
 ## Features
+
 - Input validation using exceptions  
 - Multithreading for loading animation  
 - Wrapper class usage with autoboxing  
@@ -24,6 +26,7 @@ Enhance the Student Management System using:
 - Try-catch-finally demonstration  
 
 ## 🧾 Sample Output
+
 Enter Roll No (Integer): 102
 Enter Name: Karan
 Enter Email: karan@mail.com
@@ -47,10 +50,11 @@ View operation completed.
 Program execution completed.
 
 ## Packages Used
-model → Student class
-service → StudentManager class
-threads → Loader class (Runnable)
-exceptions → Custom exception class
+
+- model → Student class
+- service → StudentManager class
+- threads → Loader class (Runnable)
+- exceptions → Custom exception class
 
 ## Learning Outcomes
 
